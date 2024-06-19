@@ -662,11 +662,9 @@ textarea {
 
 /* Images Overlay
 ----------------------------------------------------------------------------- */
-.overlay-container {
-  position: relative;
-  display: block;
-  overflow: hidden;
-}
+
+
+
 .overlay {
   position: absolute;
   top: 0;
@@ -716,3 +714,4 @@ textarea {
   -webkit-transform: scale(1);
   transform: scale(1);
 }
+
